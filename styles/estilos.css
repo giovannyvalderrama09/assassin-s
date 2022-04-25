@@ -1,0 +1,32 @@
+#banner{
+
+    background-image: url("../assets/img/banner1.jpg");
+    background-size: cover;
+    background-position: top center;
+    padding: 15% 50% 25% 2%;
+
+}
+
+.menu{
+    background-color: transparent;
+    transition: 1s;
+    text-align: right;
+}
+
+.menu2{
+    background: linear-gradient(90deg, #101519, #c0d4ee);
+    transition: 2s;
+}
+.fuente{
+ font-family: 'Annie Use Your Telescope', cursive;
+ font-size: 18px;
+}
+
+.boton-log{
+   transition: 1s; 
+}
+.boton-log2{
+    background-color: #101519;
+    color: white;
+    transition: 2s;
+}
